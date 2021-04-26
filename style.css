@@ -127,10 +127,10 @@ button:focus {
   position: fixed;
   bottom: 0;
   width: 100%;
-  text-align: right;
+  text-align: center;
 }
 .bott a {
-  margin-right: 50px;
+  margin: 0 10px;
   color: #fff;
 }
 
