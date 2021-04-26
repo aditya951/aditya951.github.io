@@ -25,7 +25,7 @@ nav {
   top: 0;
   left: 0;
   width: 200px;
-  height: 214vh;
+  height: 100%;
   z-index: 100;
   transform: translateX(-100%);
 }
@@ -117,7 +117,7 @@ button:focus {
   margin: 0 auto;
   width: 800px;
   max-width: 100%;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 
 .bott {
