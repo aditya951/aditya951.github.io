@@ -19,7 +19,7 @@
         <img src="img/pic.jpeg" alt="" />
       </div>
       <ul>
-        <li><a href="index.html">Homee</a></li>
+        <li><a href="index.html">Home</a></li>
         <li><a href="https://intellectualbeings.blogspot.com/">Blog</a></li>
         <!-- <li><a href="#">Books</a></li> -->
         <li><a href="https://github.com/aditya951?tab=repositories">Repository</a></li>
@@ -33,7 +33,7 @@
         <i class="fa fa-bars fa-2x"></i>
       </button>
       <button id="toggle1" class="toggle1">
-        <a href="res/resumeupdated4.pdf" download=>download Resume</a>
+        <a href="res/resumeupdated3.pdf" download=>download Resume</a>
       </button>
 
       <h1> Profile page</h1>
@@ -57,45 +57,30 @@
       <h2><i class="fas fa-briefcase"></i>&nbsp; EXPERIENCE</h2>
       <p>
         <ul>
-         <strong>Programmer Analyst | COGNIZANT</strong><br>JAN-2022 – Present <br>
-          <li>Gather requirement, analyze, code, test and then deploy in openshift using 
-            Jenkins pipeline.</li>
-          <li>Used Scaled Agile Framework to complete task before deadline.</li>
-          <li>Skills used :-Maven, Java, Junit, Git, Spring.</li>
-          <li>Tools :- Eclipse, Postman, Jira, Jenkins, Confluence, Github.</li>
-        </ul>
-      </p>
-      <p>
-        <ul>
-         <strong>Project Engineer | WIPRO</strong><br>MAY-2019 – JAN-2021 <br>
-         <li>Created RestAPI which UI calls to display the information using <strong>Spring Boot</strong>.</li>
-          <li>Works as application support engineer and automation engineer where my task is 
-            to automate the use cases(access control) with the help of java 
-            technologies(selenium, Apache api) which helps company to save thousands of 
-            dollar.</li>
-          <li>Skills used :-Maven, Java, Junit, Git, Spring Boot, Mockito, GraphQL</li>
-          <li>Tools :- Jira, Jenkins, Confluence, GitLab, Postman, IntelliJ .</li>
+         <strong>Project Engineer | WIPRO</strong><br>2019 – 2021 <br>
+          <li>Works as application support engineer and automation engineer where my task is to gather requirement from SMEs and to find out ways how that can be done using java technologies(selenium, apache api).</li>
+          <li>Creating RestAPI which UI calls to display the information using springboot</li>
         </ul>
       </p>
       <h2><i class="fa fa-tools"></i>&nbsp; SKILLS</h2>
       <p>
           <ul>
-            <li><strong>Programming Language :</strong>  Core Java, Spring Boot, JavaScript, Selenium, Angular8.</li>
-          <li><strong>Operating System :</strong> Windows.</li>
-          <li><strong>Software’s :</strong>  MS Office, Eclipse, Postman, Jira, Jenkins, Confluence, Github.</li>
+            <li><strong>Programming Language :</strong>  Java Core, Full Stack Developer, JavaScript,Selenium,Angular8</li>
+          <li><strong>Operating System :</strong> Windows</li>
+          <li><strong>Software’s :</strong>  MS Office, Blueprism</li>
         </ul>
       </p>
       <h2><i class="fa fa-hiking"></i>&nbsp; ACTIVITIES</h2>
       <p>
-        Won Inter-College Football Competition under UTD.
+        Won Inter-College Football Competition under UTD
       </p>
       <h2><i class="fa fa-book-open"></i>&nbsp; INTERNSHIP</h2>
       <p>
-        3-month internship in wipro technology on automation of financial billing.
+        3-month internship in wipro technology on automation of financial billing
       </p>
       <h2><i class="fa fa-award"></i>&nbsp; CERTIFICATION</h2>
       <p><strong>IBM Certified Application Developer -</strong>
-        IBM Certified Application Developer - Watson V3 Certification Credential ID IBM000234917.
+        IBM Certified Application Developer - Watson V3 Certification Credential ID IBM000234917
 </p>
       <h2><i class="fa fa-code-branch"></i>&nbsp; PROJECTS</h2>
       <p>
